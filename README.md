@@ -1,12 +1,12 @@
 # QRegularExpressionTester
 
-![QRegularExpressionTester GUI](https://github.com/johbey/QRegularExpressionTester/blob/main/images/gui.png?raw=true)
-
 ## Introduction
 
 The **QRegularExpressionTester** is a tool designed for testing regular expressions on text input with the class QRegularExpression. 
 It provides a user-friendly interface that allows users to enter a regex pattern, adjust options, input text, and instantly see the matching results, including captured groups. 
 The app supports syntax highlighting to visually emphasize matches and groups within both the input and output text fields.
+
+![QRegularExpressionTester GUI](https://github.com/johbey/QRegularExpressionTester/blob/main/images/gui.png?raw=true)
 
 ## Installation
 
