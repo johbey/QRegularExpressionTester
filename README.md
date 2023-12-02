@@ -1,6 +1,6 @@
 # QRegularExpressionTester
 
-![QRegularExpressionTester GUI](https://github.com/johbey/QRegularExpressionTester/images/gui.png?raw=true)
+![QRegularExpressionTester GUI](https://github.com/johbey/QRegularExpressionTester/blob/main/QRegularExpressionTester/images/gui.png?raw=true)
 
 ## Introduction
 
