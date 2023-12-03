@@ -134,17 +134,11 @@ ApplicationWindow {
                         var matchStarts = regexSearch.matchStarts();
                         var matchLengths = regexSearch.matchLengths();
 
-                        console.log(matchStarts)
-                        console.log(matchLengths)
-
-                        setFormat(0, textInput.text.length, "black")
-
                         // apply highlights of matches
                         for (var i = 0; i < matchStarts.length; ++i) {                            
                             var matchStart = matchStarts[i] - startIndex;
                             var matchLength = matchLengths[i];
 
-                            //console.log(matchStart, matchLength)
                             setFormat(matchStart, matchLength, "royalblue")
                         }
 
